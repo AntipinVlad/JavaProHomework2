@@ -6,9 +6,15 @@ public class Car {
         startFuelSystem();
     }
 
-    private void startElectricity() {}
+    private void startElectricity() {
+        System.out.println("Start electricity");
+    }
 
-    private void startCommand() {}
+    private void startCommand() {
+        System.out.println("Start command");
+    }
 
-    private void startFuelSystem() {}
+    private void startFuelSystem() {
+        System.out.println("Start fuel system");
+    }
 }
