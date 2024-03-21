@@ -4,7 +4,7 @@ public class Employee {
     private String surname;
     private String position;
     private String email;
-    private Long phoneNumber;
+    private String phoneNumber;
     private int age;
 
     public Employee(String firstName, String secondName, String surname, String position, String email,
