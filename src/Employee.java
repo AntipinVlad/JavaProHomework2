@@ -8,7 +8,7 @@ public class Employee {
     private int age;
 
     public Employee(String firstName, String secondName, String surname, String position, String email,
-                    Long phoneNumber, int age) {
+                    String phoneNumber, int age) {
         this.firstName = firstName;
         this.secondName = secondName;
         this.surname = surname;
